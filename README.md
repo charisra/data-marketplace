@@ -1,4 +1,4 @@
-Narrative Data Marketplace Code Sample
+Data Marketplace Code Sample
 
 ### How To Run The Project
 
