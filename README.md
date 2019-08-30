@@ -1,4 +1,4 @@
-Data Marketplace Code Sample
+Data Marketplace App
 
 ### How To Run The Project
 
